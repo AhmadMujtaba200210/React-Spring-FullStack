@@ -1,2 +1,5 @@
-package io.fullstack.movieAPI.model;public class Movie {
+package io.fullstack.movieAPI.model;
+
+@
+public class Movie {
 }
